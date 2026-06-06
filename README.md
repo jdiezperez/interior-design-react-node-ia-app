@@ -194,20 +194,25 @@ This project is licensed under the **ISC License**. See the `LICENSE` file for d
 ## Screenshots
 
 Home
-![Home](_images/01-home.png)
+
+<img src="_images/01-home.png" alt="Home" width="800">
 
 Dashboard
-![Dashboard](_images/03-dashboard.png)
+
+<img src="_images/03-dashboard.png" alt="Dashboard" width="800">
 
 Style Library
-![Style Library](_images/06-estilos.png)
+
+<img src="_images/06-estilos.png" alt="Style Library" width="800">
 
 Furniture Library
-![Furniture Library](_images/07-mobiliario.png)
+
+<img src="_images/07-mobiliario.png" alt="Furniture Library" width="800">
 
 Generating Images
-![Generating Images](_images/11-proyectos_crear03.png)
+
+<img src="_images/11-proyectos_crear03.png" alt="Generating Images" width="800">
 
 Editing Images
-![Editing Images](_images/15-proyectos_editar02.png)
 
+<img src="_images/proyectos_editar02" alt="Editing Images" width="800">
