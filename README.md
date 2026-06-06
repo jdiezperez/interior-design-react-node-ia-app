@@ -141,3 +141,24 @@ This project is licensed under the **ISC License**. See the `LICENSE` file for d
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a Pull Request.
+
+## Screenshots
+
+Home
+![Home](_images/01-home.png)
+
+Dashboard
+![Dashboard](_images/03-dashboard.png)
+
+Style Library
+![Style Library](_images/06-estilos.png)
+
+Furniture Library
+![Furniture Library](_images/07-mobiliario.png)
+
+Generating Images
+![Generating Images](_images/11-proyectos_crear03.png)
+
+Editing Images
+![Editing Images](_images/15-proyectos_editar02.png)
+
