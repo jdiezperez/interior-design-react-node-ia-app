@@ -13,7 +13,7 @@ const Location = sequelize.define('Location', {
     },
     userId: {
         type: DataTypes.INTEGER,
-        allowNull: false // Linked to the main user who created it
+        allowNull: false
     }
 });
 

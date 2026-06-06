@@ -13,7 +13,7 @@ const StyleCategory = sequelize.define('StyleCategory', {
     },
     userId: {
         type: DataTypes.INTEGER,
-        allowNull: false // Linked to the main user who created it
+        allowNull: false
     }
 });
 
